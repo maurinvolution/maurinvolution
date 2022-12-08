@@ -1,3 +1,8 @@
+<h3 align="center">MAURI G. || MERN STACK</h3>
+
+![](https://user-images.githubusercontent.com/38845275/128774296-40a55843-1893-44e6-936e-5e71c7cf72de.png)
+
+---
 # About Me:
 I am a FullStack developer, currently trying to grow with knowledge and experience. I am excited to be part of a work team, I feel that I can contribute, both as a technician and as a person.<br>I never found exactly what I wanted to dedicate myself to finding programming. Always do something to learn in the community of programmers is very extensive and warm, or that constantly motivates me to give or improve myself.<br>I have knowledge in web development with JavaScript, React.js, Node.js, Express, Axios, Sequelize, PostgreSQL, MongoDB, HTML, CSS. I also worked on the development of a mobile application using React Native<br>Feel free to contact me if you wish!
 
