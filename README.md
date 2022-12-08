@@ -4,7 +4,8 @@
 
 ---
 <!-- About me -->
-I am a full-stack developer with 5 years of experience in software development and 12 years in the tech world. My main tech stack at the moment is Mongo, Express, React, and Node.js (1 year of exp.) Previously I developed with PHP, MySQL, and Apache (WAMP 4 years of exp.)
+I am a full-stack developer with 5 years of experience in software development and 12 years in the tech world. My main tech stack at the moment is Mongo, Express, React, and Node.js (1 year of exp) Previously I developed with PHP, MySQL, and Apache (WAMP 4 years of exp)
+
 Feel free to contact me if you want!
 
 
@@ -22,11 +23,11 @@ Feel free to contact me if you want!
     <h2 align="center">Hard Skills</h2>
     <ul>
     <li>Data structures and algorithms</li>
-    <li>Database and SQL</li>
+    <li>Database</li>
     <li>Object-oriented programming (OOP) languages</li>
     <li>Integrated development environments (IDEs)</li>
     <li>Cloud computing</li>
-    <li>Web development</li>
+    <li>e-commerce</li>
     <li>Containers</li>
     <li>Text editors</li>
     <li>Git version control</li>
