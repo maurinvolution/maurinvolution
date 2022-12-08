@@ -4,13 +4,52 @@
 
 ---
 <!-- About me -->
-I am a FullStack developer, currently trying to grow with knowledge and experience. I am excited to be part of a work team, I feel that I can contribute, both as a technician and as a person.<br>I never found exactly what I wanted to dedicate myself to finding programming. Always do something to learn in the community of programmers is very extensive and warm, or that constantly motivates me to give or improve myself.<br>I have knowledge in web development with JavaScript, React.js, Node.js, Express, Axios, Sequelize, PostgreSQL, MongoDB, HTML, CSS. I also worked on the development of a mobile application using React Native<br>Feel free to contact me if you wish!
+I am a full-stack developer with 5 years of experience in software development and 12 years in the tech world. My main tech stack at the moment is Mongo, Express, React, and Node.js (1 year of exp.) Previously I developed with PHP, MySQL, and Apache (WAMP 4 years of exp.)
+Feel free to contact me if you want!
 
 
 <!-- Social icons section -->
 
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maurinvolution/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauri-gimenez) 
+
+
+<!-- Hard & Soft skills section -->
+
+<div align="center">
+<table align="center">
+  <th align="left">
+    <h2 align="center">Hard Skills</h2>
+    <ul>
+    <li>Data structures and algorithms</li>
+    <li>Database and SQL</li>
+    <li>Object-oriented programming (OOP) languages</li>
+    <li>Integrated development environments (IDEs)</li>
+    <li>Cloud computing</li>
+    <li>Web development</li>
+    <li>Containers</li>
+    <li>Text editors</li>
+    <li>Git version control</li>
+    </ul>
+  </th>
+  <th align="left">
+    <h2 align="center">Soft Skills</h2>
+    <ul >
+    <li>Communication</li>
+    <li>Teamwork and conflict resolution</li>
+    <li>Problem solving and creativity</li>
+    <li>Empathy</li>
+    <li>Self-learning</li>
+    <li>Curiosity</li>
+    <li>Adaptability</li>
+    <li>Accountability</li>
+    <li>Time management</li>
+    </ul>
+  </th>
+</table>
+</div>
+
+
 
 
 # Tech Stack:
