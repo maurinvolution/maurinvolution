@@ -4,10 +4,10 @@
 
 ---
 <!-- About me -->
-I am a full-stack developer with 5 years of experience in software development and 12 years in the tech world. My main tech stack at the moment is Mongo, Express, React, and Node.js (1 year of exp) Previously I developed with PHP, MySQL, and Apache (WAMP 4 years of exp)
+I am a full stack developer with more than 15 years of experience in the IT area. My main technologies at the moment are Mongo, Express, React and Node.js (1 year of experience). Previously I have developed with PHP, MySQL and Apache (WAMP 6 years of experience).
+Areas of expertise: ERP & CRM healthcare systems, e-commerce, chatbot, stock control, commercial management. 
 
 Feel free to contact me if you want!
-
 
 <!-- Social icons section -->
 
